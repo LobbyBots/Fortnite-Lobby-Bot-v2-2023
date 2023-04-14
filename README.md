@@ -1,6 +1,6 @@
 # Setup
 
-Video tutorial: https://youtube.com
+Video tutorial: https://youtu.be/HoPHUgkQNYY
 [![Run on Replit](https://img.shields.io/badge/Run%20on%20Replit-https://replit.com/@FortniteLobbyBots/Fortnite-Lobby-Bot-v2-2023?v=1-blue?style=flat&logo=replit)](https://replit.com/@FortniteLobbyBots/Fortnite-Lobby-Bot-v2-2023?v=1)
 
 1. Go to https://www.fortnite.com and create another fortnite account for the bot to use.
