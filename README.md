@@ -1,6 +1,7 @@
 # Setup
 
 Video tutorial: https://youtube.com
+[![Run on Replit](https://img.shields.io/badge/Run%20on%20Replit-https://replit.com/@yourusername/yourprojectname-blue?style=flat&logo=replit)]
 
 1. Go to https://www.fortnite.com and create another fortnite account for the bot to use.
 2. Go to https://lobbybots.ga/authcode/ and copy the authorizationCode then paste it into the console when it asks you to(when going on the website make sure your logged in to the account you just made DON'T USE YOUR MAIN!).
@@ -42,4 +43,3 @@ This is how your config.json file shuld look (by default).
 7. To stop the bot from adding every friend just replace true with false.
 8. To stop the bot from accepting every party invite just replace true with false.
 9. If you want to add your own join message remove the text in the quotation marks and replace it with whatever you would like. Note: You can use {member.display_name} to get the users display name.
-[![Run on Replit](https://img.shields.io/badge/Run%20on%20Replit-https://replit.com/@yourusername/yourprojectname-blue?style=flat&logo=replit)](https://replit.com/@yourusername/yourprojectname)
