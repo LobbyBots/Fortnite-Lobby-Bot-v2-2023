@@ -42,3 +42,6 @@ This is how your config.json file shuld look (by default).
 7. To stop the bot from adding every friend just replace true with false.
 8. To stop the bot from accepting every party invite just replace true with false.
 9. If you want to add your own join message remove the text in the quotation marks and replace it with whatever you would like. Note: You can use {member.display_name} to get the users display name.
+
+
+https://replit.com/@FortniteLobbyBots/Fortnite-Lobby-Bot-v2-2023#README.md
