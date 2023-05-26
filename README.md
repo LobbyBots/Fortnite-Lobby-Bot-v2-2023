@@ -4,7 +4,7 @@ Video tutorial: https://youtu.be/HoPHUgkQNYY
 [![Run on Replit](https://img.shields.io/badge/Run%20on%20Replit-https://replit.com/@FortniteLobbyBots/Fortnite-Lobby-Bot-v2-2023?v=1-blue?style=flat&logo=replit)](https://replit.com/@FortniteLobbyBots/Fortnite-Lobby-Bot-v2-2023?v=1)
 
 1. Go to https://www.fortnite.com and create another fortnite account for the bot to use.
-2. Go to https://lobbybots.ga/authcode/ and copy the authorizationCode then paste it into the console when it asks you to(when going on the website make sure your logged in to the account you just made DON'T USE YOUR MAIN!).
+2. Go to https://www.epicgames.com/id/api/redirect?clientId=3446cd72694c4a4485d81b77adbb2141&responseType=code and copy the authorizationCode then paste it into the console when it asks you to(when going on the website make sure your logged in to the account you just made DON'T USE YOUR MAIN!).
 3. [OPTIONAL] You can configure some parts for the bot in the config.json file.
 # How to configure your bot
 [MEANINGS]
