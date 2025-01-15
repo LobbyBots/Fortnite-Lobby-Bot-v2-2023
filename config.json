@@ -7,5 +7,8 @@
     "auto_update": true,
     "accept_friend_requests": true,
     "accept_invites": true,
-    "join_message": "Hey {member.display_name}! Want to get you own free bot? Join my discord server: https://discord.gg/73t72uNYFp Instagram: luka2235.bots  TikTok: luka2235.bots !help to use the bot."
+    "join_message": "Hey {member.display_name}! Want to get you own free bot? Join my discord server: https://discord.gg/73t72uNYFp Instagram: luka2235.bots  TikTok: luka2235.bots !help to use the bot.",
+    "admins": [
+        "your_fortnite_id"
+    ]
 }
